@@ -8,5 +8,6 @@ public class NextButton : MonoBehaviour
     public void OnClick()
     {
         background.NextButtonClick();
+        //Check here
     }
 }
